@@ -1,0 +1,20 @@
+.navbar-nav li
+{
+   font-weight: bold;
+   font-family: Bitter,Georgia,Times,"Times New Roman",serif;
+   font-size: 1.2em;
+}
+.Line
+{
+margin-top: -20px;	
+}
+
+ #Footer
+  {
+  	padding: 10px;
+  	border-top: 1px solid black;
+  	color: #eeeeee;
+  	background-color: #211f22;
+    text-align: center;
+
+  }
